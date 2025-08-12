@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env 
+Langchain_OpenAI/Faiss_index/index.faiss
+Langchain_OpenAI/Faiss_index/index.pkl
+Langchain_OpenAI/Getting_started.ipynb
+Langchain_OpenAI/Ollama_setup.ipynb
+Langchain_OpenAI/chroma.db/04b5f881-5a6e-4afc-8676-daf3fa191729/data_level0.bin
+Langchain_OpenAI/chroma.db/04b5f881-5a6e-4afc-8676-daf3fa191729/header.bin
+Langchain_OpenAI/chroma.db/04b5f881-5a6e-4afc-8676-daf3fa191729/length.bin
+Langchain_OpenAI/chroma.db/04b5f881-5a6e-4afc-8676-daf3fa191729/link_lists.bin
+Langchain_OpenAI/passport_payment_reciept.pdf
