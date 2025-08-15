@@ -24,3 +24,5 @@ langserve
 sse_starlette
 colored==2.2.4
 langgraph
+arxiv
+wikipedia
